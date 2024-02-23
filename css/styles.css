@@ -1,0 +1,90 @@
+h1{
+    color: white;
+
+
+   
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+
+
+.inline-block{
+    display: inline-block;
+}
+.topnav {
+    
+    overflow: hidden;
+    background-color: black;
+    color:white;
+    font-size: 12;
+    width: 100%;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    overflow: hidden;
+    float: right;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+.heroImg{
+    height: 1000px;
+    background-color: lightgray;
+    align-items: center;
+}
+
+.content {
+    width: 512px;
+    margin: 0 auto;
+    background-color: black;
+}
+
+.button {
+
+        background-color: lightgray;
+        border: none;
+        color: blue;
+        padding: 10px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 10px 150px;
+        cursor: pointer;
+        position: relative;
+       
+
+      
+      
+      }
+footer{
+    background-color: black;
+    color:white;
+    text-align: left; 
+    height: 173px;
+    
+}
+
+
+p{
+    color: white;
+    text-align: center;
+}
+.logoImg{
+    float: right;
+    display: inline-block;
+   
+
+    
+}
